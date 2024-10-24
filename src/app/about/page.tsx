@@ -24,21 +24,21 @@ interface TeamMember {
 
 const teamMembers: TeamMember[] = [
   {
-    name: "Prathamesh Chougale",
+    name: "Gauri Nimje",
     role: "Full Stack Developer",
     avatar: "/api/placeholder/100/100",
     bio: "Passionate about creating scalable and efficient web solutions.",
     skills: ["React", "Node.js", "GraphQL", "AWS"],
   },
   {
-    name: "Samantha Lee",
+    name: "Sanika Menkudale",
     role: "UX/UI Designer",
     avatar: "/api/placeholder/100/100",
     bio: "Dedicated to crafting intuitive and delightful user experiences.",
     skills: ["Figma", "Adobe XD", "User Research", "Prototyping"],
   },
   {
-    name: "Raj Patel",
+    name: "Will Smith",
     role: "AI Specialist",
     avatar: "/api/placeholder/100/100",
     bio: "Exploring the frontiers of artificial intelligence and machine learning.",
